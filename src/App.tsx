@@ -1,7 +1,7 @@
-import Header from "./components/header/index.tsx";
-import Main from "./components/section/index.tsx";
-import Footer from "./components/footer/index.tsx";
-import {ImcProvider} from "./components/context/index.tsx";
+import Header from "./components/header";
+import Main from "./components/main";
+import Footer from "./components/footer/index";
+import {ImcProvider} from "./components/context";
 
 export default function App() {
   return (

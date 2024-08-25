@@ -135,7 +135,7 @@ const Formulario = () => {
           inputAltura,
           setResultadoImc,
           setError,
-          textoRef
+          textoRef,
         )
       }
     >

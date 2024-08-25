@@ -14,6 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 100vw;
     height: 100%;
     background: url(${img});
     background-size: cover;
