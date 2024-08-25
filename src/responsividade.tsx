@@ -2,7 +2,7 @@
 //Responsividade
 const sizes = {
     mobile: '480px',
-    tablet: '820px',
+    tablet: '850px',
   };
   
    const media = {
